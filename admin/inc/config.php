@@ -6,16 +6,16 @@ ini_set('error_reporting', E_ALL);
 date_default_timezone_set('America/Los_Angeles');
 
 // Host Name
-$dbhost = 'localhost';
+$dbhost = 'fdb33.awardspace.net';
 
 // Database Name
-$dbname = 'ecommerceweb';
+$dbname = '4115258_db';
 
 // Database Username
-$dbuser = 'root';
+$dbuser = '4115258_db';
 
 // Database Password
-$dbpass = '';
+$dbpass = 'hehe123?';
 
 // Defining base url
 define("BASE_URL", "");
